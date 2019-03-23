@@ -4,4 +4,8 @@ class A {
     {
         return 1;
     }
+    function bbb()
+    {
+        return 2;
+    }
 }
