@@ -8,4 +8,8 @@ class A {
     {
         return 2;
     }
+    function ccc()
+    {
+        return 2;
+    }
 }
